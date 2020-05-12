@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pb01",
+    "name": "Стейк из сибаса",
+    "description": "Стейк чилийского сибаса, французкие травы, лимон",
+    "price": 999,
+    "image": "img/Vino/Sibas.jpeg"
+  },
+  {
+    "id": "pb02",
+    "name": "Фуа-гра",
+    "description": "Печень гуся, листья салата, приправы по вкусу",
+    "price": 429,
+    "image": "img/Vino/Phuagra.jpg"
+  },
+  {
+    "id": "pb03",
+    "name": "Каре телятины",
+    "description": "Телятина, бальзамик, имбирь, кинза",
+    "price": 569,
+    "image": "img/Vino/Care.jpg"
+  },
+  {
+    "id": "pb04",
+    "name": "Цезар",
+    "description": "Куриное филе, салат Айсберг, сыр пармезан",
+    "price": 189,
+    "image": "img/Vino/Cesar.jpg"
+  },
+  {
+    "id": "pb05",
+    "name": "Креветки гриль",
+    "description": "Крупные креветки, лимон, чеснок, соль",
+    "price": 389,
+    "image": "img/Vino/Crevet.jpg"
+  },
+  {
+    "id": "pb06",
+    "name": "Карпаччо из лосося",
+    "description": "Филе лосося, шнитт-лук, каперсы, лимон",
+    "price": 249,
+    "image": "img/Vino/Carpacho.jpg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ps01",
+    "name": "Цезар",
+    "description": "Куриное филе, салат Айсберг, сыр пармезан",
+    "price": 189,
+    "image": "img/Citronelle/Cesar.jpg"
+  },
+  {
+    "id": "ps02",
+    "name": "Стейк из сибаса",
+    "description": "Стейк чилийского сибаса, французкие травы, лимон",
+    "price": 999,
+    "image": "img/Citronelle/Sibas.jpeg"
+  },
+  {
+    "id": "ps03",
+    "name": "Карпаччо из лосося",
+    "description": "Филе лосося, шнитт-лук, каперсы, лимон",
+    "price": 249,
+    "image": "img/Citronelle/Carpacho.jpg"
+  },
+  {
+    "id": "ps04",
+    "name": "Фуа-гра",
+    "description": "Печень гуся, листья салата, приправы по вкусу",
+    "price": 429,
+    "image": "img/Citronelle/Phuagra.jpg"
+  },
+  {
+    "id": "ps05",
+    "name": "Креветки гриль",
+    "description": "Крупные креветки, лимон, чеснок, соль",
+    "price": 389,
+    "image": "img/Citronelle/Crevet.jpg"
+  },
+  {
+    "id": "ps06",
+    "name": "Каре телятины",
+    "description": "Телятина, бальзамик, имбирь, кинза",
+    "price": 569,
+    "image": "img/Citronelle/Care.jpg"
+  }
+]

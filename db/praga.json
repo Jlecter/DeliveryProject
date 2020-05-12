@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tn01",
+    "name": "Каре телятины",
+    "description": "Телятина, бальзамик, имбирь, кинза",
+    "price": 569,
+    "image": "img/Praga/Care.jpg"
+  },
+  {
+    "id": "tn02",
+    "name": "Карпаччо из лосося",
+    "description": "Филе лосося, шнитт-лук, каперсы, лимон",
+    "price": 249,
+    "image": "img/Praga/Carpacho.jpg"
+  },
+  {
+    "id": "tn03",
+    "name": "Креветки гриль",
+    "description": "Крупные креветки, лимон, чеснок, соль",
+    "price": 389,
+    "image": "img/Praga/Crevet.jpg"
+  },
+  {
+    "id": "tn04",
+    "name": "Стейк из сибаса",
+    "description": "Стейк чилийского сибаса, французкие травы, лимон",
+    "price": 999,
+    "image": "img/Praga/Sibas.jpeg"
+  },
+  {
+    "id": "tn05",
+    "name": "Фуа-гра",
+    "description": "Печень гуся, листья салата, приправы по вкусу",
+    "price": 429,
+    "image": "img/Praga/Phuagra.jpg"
+  },
+  {
+    "id": "tn06",
+    "name": "Цезар",
+    "description": "Куриное филе, салат Айсберг, сыр пармезан",
+    "price": 189,
+    "image": "img/Praga/Cesar.jpg"
+  }
+]

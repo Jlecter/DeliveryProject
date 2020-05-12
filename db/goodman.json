@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pp01",
+    "name": "Цезар",
+    "description": "Куриное филе, салат Айсберг, сыр пармезан",
+    "price": 189,
+    "image": "img/Goodman/Cesar.jpg"
+  },
+  {
+    "id": "pp02",
+    "name": "Фуа-гра",
+    "description": "Печень гуся, листья салата, приправы по вкусу",
+    "price": 429,
+    "image": "img/Goodman/Phuagra.jpg"
+  },
+  {
+    "id": "pp03",
+    "name": "Стейк из сибаса",
+    "description": "Стейк чилийского сибаса, французкие травы, лимон",
+    "price": 999,
+    "image": "img/Goodman/Sibas.jpeg"
+  },
+  {
+    "id": "pp04",
+    "name": "Креветки гриль",
+    "description": "Крупные креветки, лимон, чеснок, соль",
+    "price": 389,
+    "image": "img/Goodman/Crevet.jpg"
+  },
+  {
+    "id": "pp05",
+    "name": "Карпаччо из лосося",
+    "description": "Филе лосося, шнитт-лук, каперсы, лимон",
+    "price": 249,
+    "image": "img/Goodman/Carpacho.jpg"
+  },
+  {
+    "id": "pp06",
+    "name": "Каре телятины",
+    "description": "Телятина, бальзамик, имбирь, кинза",
+    "price": 569,
+    "image": "img/Goodman/Care.jpg"
+  }
+]

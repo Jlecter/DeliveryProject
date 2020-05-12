@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fb01",
+    "name": "Фуа-гра",
+    "description": "Печень гуся, листья салата, приправы по вкусу",
+    "price": 429,
+    "image": "img/Catch/Phuagra.jpg"
+  },
+  {
+    "id": "fb02",
+    "name": "Креветки гриль",
+    "description": "Крупные креветки, лимон, чеснок, соль",
+    "price": 389,
+    "image": "img/Catch/Crevet.jpg"
+  },
+  {
+    "id": "fb03",
+    "name": "Каре телятины",
+    "description": "Телятина, бальзамик, имбирь, кинза",
+    "price": 569,
+    "image": "img/Catch/Care.jpg"
+  },
+  {
+    "id": "fb04",
+    "name": "Цезар",
+    "description": "Куриное филе, салат Айсберг, сыр пармезан",
+    "price": 189,
+    "image": "img/Catch/Cesar.jpg"
+  },
+  {
+    "id": "fb05",
+    "name": "Стейк из сибаса",
+    "description": "Стейк чилийского сибаса, французкие травы, лимон",
+    "price": 999,
+    "image": "img/Catch/Sibas.jpeg"
+  },
+  {
+    "id": "fb06",
+    "name": "Карпаччо из лосося",
+    "description": "Филе лосося, шнитт-лук, каперсы, лимон",
+    "price": 249,
+    "image": "img/Catch/Carpacho.jpg"
+  }
+]
